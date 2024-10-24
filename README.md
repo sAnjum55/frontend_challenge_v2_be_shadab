@@ -156,7 +156,7 @@ file: filename.csv
 "Player successfully removed!"
 ```
 
-#### PATCH  `http://localhost:5001/api/roster/:playerId`
+#### PATCH  `http://localhost:5001/api/roster`
 **Body**
 ```
 {
