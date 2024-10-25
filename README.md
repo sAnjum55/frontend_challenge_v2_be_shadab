@@ -53,7 +53,7 @@ Once the app is running, you can access the REST API via:
 | POST   | `/api/roster`           | Upload roster file                 |
 | PATCH  | `/api/file`             | Update file name                   |
 | DELETE | `/api/file/:fileId`     | Delete file by Id                  |
-| PATCH  | `/api/roster/`          | Update player details              |
+| PATCH  | `/api/roster`          | Update player details              |
 | DELETE | `/api/roster/:playerId` | Remove player                      |
 
 ### Requests
