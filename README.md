@@ -13,6 +13,7 @@ Make sure you have the following installed on your local machine:
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/Beam-Dynamics/frontend_challenge_v2_be.git
+cd frontend_challenge_v2_be/
 ```
 
 ### Step 2: Run app using docker
